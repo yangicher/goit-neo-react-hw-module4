@@ -1,0 +1,22 @@
+.searchLabel {
+    position: relative;
+}
+
+.input {
+    height: 32px;
+    min-width: 350px;
+    outline: none;
+    padding-left: 40px;
+}
+
+
+.submit {
+    all: unset;
+    cursor: pointer;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 8px;
+    display: flex;
+}
